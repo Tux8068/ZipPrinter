@@ -1,1 +1,6 @@
-[Nabia] Client; developed by: TuxISCool, Taxionic, SkillNoob Credits to Tenshi & Onion for stopping my autism.
+line 1: example config
+line 2: made by:
+line 3: tuxiscool
+line 4: tuxiscool's friend
+line 5: credits to:
+line 6: bob
